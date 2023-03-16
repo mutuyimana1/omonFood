@@ -89,15 +89,19 @@ button {
   display: flex;
   width: 80%;
   margin: auto;
+  justify-content: space-between;
 }
 .products h2 {
   text-align: center;
   padding-bottom: 50px;
 }
 .products p {
-  padding-right: 20px;
-  padding-left: 20px;
+  /* padding-right: 20px; */
+  /* padding-left: 20px; */
 }
 .bx-user {
   color: red;
+}
+.product-one {
+  width: 500px;
 }
